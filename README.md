@@ -8,3 +8,4 @@
 -2. Programação
 -3. Aprovação do projeto
 -3. Treinamento dos usuários 
+ALUNOS DO GRUPO
